@@ -1,0 +1,5 @@
+Ordenação com selection sort
+
+A ordenação por seleção é um algoritmo de ordenação baseado em se passar sempre o menor valor do vetor 
+para a primeira posição, depois o de segundo menor valor para a segunda posição, e assim é feito 
+sucessivamente com os n-1 elementos restantes, até os últimos dois elementos.
