@@ -1,0 +1,5 @@
+Ordenação Com quick sort
+
+ algoritmo eficiente de ordenação. O algoritmo baseia a ordenação em sucessivas execuções de particionamento, 
+ uma rotina que escolhe um pivot e o posiciona no array de uma maneira em que os elementos menores 
+ ou iguais ao pivot estão à sua esquerda e os maiores estão à sua direita
